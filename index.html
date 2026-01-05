@@ -1,112 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>zionabyrke.dev</title>
+  <link rel="stylesheet" href="style.css">
 
-    <meta name="description" content="">
-    <meta name="author" content="zionabyrke">
-
-    <title>zionabyrke.dev</title>
-    <link rel="stylesheet" href="/css/style.css">
 </head>
-
 <body>
-    <!-- nav bar -->
-    <header>
-        <nav>
-            <div class="logo">
-                <a href="#hero">
-                    <img src="https://github.com/zionabyrke.png" 
-                        alt="Profile Picture"
-                        style="width: 60px; height: 60px;">
-                </a>
-                <strong style="font-size: small;">
-                    zionabyrke.dev
-                </strong>
-            </div>
-            <ul>
-                <!-- # hash redirects user to a specific section -->
-                <li><a href="#about">About</a></li>
-                <li><a href="#skills">Skills</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
-                <li>
-                    <div class="git_logo">
-                        <a href="https://github.com/zionabyrke">GitHub</a>
-                    </div>
-                    
-                </li>
-            </ul>
-        </nav>
-    </header>
+  <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+    <span id="themeIcon">🌙</span>
+  </button>
 
-    <!-- main -->
-     <main>
-        <section id="hero">
-            <div>
-                <h1>Konichiwa! I'm Renz</h1>
-                <p>CS Student | SWE wannabe</p>
-                <a href="#projects">View My Work</a>
-            </div>
-        </section>
+  <section class="hero">
+    <h1>RNZKRBYG.O (zionabyrke)</h1>
+    <p>CS Student | Aspiring SWE</p>
+  </section>
 
+  <section class="projects-section">
+    <h2 class="projects-title">Projects</h2>
+    <div id="projectsContainer" class="projects-container">
+      <div class="loading">Loading projects from GitHub...</div>
+    </div>
+  </section>
 
-        <section id="about">
-            <h2>About Me</h2>
-            <p>
-                I do coding from time to time.
-            </p>
-        </section>
+  <footer>
+    <div class="footer-section">
+      <h3>Skills</h3>
+      <div class="skills-grid">
+        <div class="skill-item">Git</div>
+        <div class="skill-item">Reinforcement Learning</div>
+        <div class="skill-item">JavaScript</div>
+        <div class="skill-item">Python</div>
+        <div class="skill-item">React</div>
+        <div class="skill-item">Node.js</div>
+        <div class="skill-item">Machine Learning</div>
+        <div class="skill-item">Web Development</div>
+      </div>
+    </div>
 
+    <div class="footer-section">
+      <h3>Contact</h3>
+      <div class="contact-grid">
+        <div class="contact-item">
+          <span>📧</span>
+          <a href="mailto:renzkirbyonia@gmail.com">renzkirbyonia@gmail.com</a>
+        </div>
+        <div class="contact-item">
+          <span>💼</span>
+          <a href="https://github.com/zionabyrke" target="_blank">GitHub</a>
+        </div>
+        <div class="contact-item">
+          <span>🔗</span>
+          <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+        </div>
+      </div>
+    </div>
 
-        <section id="skills">
-            <h2>Skills</h2>
-            <div class="skills-grid">
-                <div>Git & GitHub</div>
-                <div>Reinforcement Learning</div>
-                <div>Python</div>
-                <div>Java</div>
-                <div>C & C++</div>
-                <div>HTML-CSS-JS</div>
-            </div>
-        </section>
+    <div class="copyright">
+      © 2026 Zion Abyrke. All rights reserved.
+    </div>
+  </footer>
 
-        <!-- connected github projects -->
-        <section id="projects">
-            <h2>Projects</h2>
-
-            <div id="project-list">
-                <!-- JS project cards -->
-            </div>
-
-        </section>
-
-        <section id="contact">
-            <h2>Contact</h2>
-            <address>
-                <p>Email: <a href="mailto:renzkirbyonia@gmail.com">renzkirbyonia@gmail.com</a></p>
-                <p>
-                    GitHub:
-                    <a href="https://github.com/zionabyrke" target="_blank" rel="noopener noreferrer">
-                        github.com/zionabyrke
-                    </a>
-                </p>
-            </address>
-
-        </section>
-
-     </main>
-
-
-    <footer>
-        <!-- Year should sync automatically -->
-        <p>&copy; Year<span id="currentYear"> zionabyrke | All Rights Reserved</span></p>
-    </footer>
-
+  <script src="script.js">
     
-    <script src="/js/script.js">
-        
-    </script> 
+  </script>
 </body>
 </html>
