@@ -16,8 +16,10 @@
   </a>
 </p>
 I focus on building wide range of interesting solo projects (for now)
-<br>
-## Toolkit
+
+<h2>
+  Toolkit
+</h2>
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
