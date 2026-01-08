@@ -13,7 +13,7 @@ async function fetchGitHubRepos() {
     const publicRepos = repos.filter(r => !r.private && !r.fork);
     
     if (publicRepos.length === 0) {
-        container.innerHTML = '<div class="loading">No public repositories found.</div>';
+        container.innerHTML = '<p>No public repositories found.</p>';
         return;
     }
     
@@ -35,7 +35,6 @@ async function fetchGitHubRepos() {
         footer.className = 'project-footer';
         
         const langs = document.createElement('div');
-        langs.className = 'project-languages';
         
         if (repo.language) {
         const tag = document.createElement('span');
@@ -53,13 +52,11 @@ async function fetchGitHubRepos() {
         });
         }
         
-        const link = document.createElement('div');
+        const link = document.createElement('a');
         link.className = 'project-link';
-        link.innerHTML = '→';
-        link.onclick = (e) => {
-        e.stopPropagation();
-        window.open(repo.html_url, '_blank');
-        };
+        link.href = repo.html_url;
+        link.target = '_blank';
+        link.textContent = 'View →';
         
         footer.appendChild(langs);
         footer.appendChild(link);
@@ -70,7 +67,7 @@ async function fetchGitHubRepos() {
         container.appendChild(card);
     }
     } catch (err) {
-    container.innerHTML = `<div class="error">Error loading repositories: ${err.message}</div>`;
+    container.innerHTML = `<p>Error loading repositories: ${err.message}</p>`;
     }
 }
 
