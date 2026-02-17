@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/GitHub-Operational-success?style=flat" />
   </a>
 </p>
-nothing to say
-
+<p><q>Sensible, savvy, and on top of everything</q>
+— <cite>Im Sol</cite></p>
 <h2>
   Toolkit
 </h2>
