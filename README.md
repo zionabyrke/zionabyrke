@@ -15,8 +15,9 @@
     <img src="https://img.shields.io/badge/GitHub-Operational-success?style=flat" />
   </a>
 </p>
-<p><q>Sensible, savvy, and on top of everything</q>
-— <cite>Im Sol</cite></p>
+<p><q>Jack OFF all trades, master of NUT</q>
+— <cite>Me, probably</cite></p>
+
 <h2>
   Toolkit
 </h2>
