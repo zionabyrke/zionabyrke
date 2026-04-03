@@ -1,5 +1,5 @@
 # Renz here ✌️
-BUCS BSCS Student | Hobby dev
+BSCS Student | Hobby dev
 <br>Likes working alone & learning by doing
 
 ## Currently Working On:
@@ -29,7 +29,7 @@ BUCS BSCS Student | Hobby dev
 - (12/03/24). Built Android Quiz app on Thunkable. No public code  
   Learned how to create interactive quiz flows using event-driven logic in a low-code mobile development platform
 
-- (10/17/24). Built Android local caves tourist guide app in MIT App Inventor. No public code  
+- (10/17/24). Built Android local caves tourist guide app in MIT App Inventor: [App demo](https://drive.google.com/file/d/1AXWm21HIAFnJQJJJT03usG9FEG1A0Z9p/view?usp=sharing) 
   Learned how to design user-friendly mobile interfaces for content-driven apps using a visual programming tool
 
 - (05/01/24). Cafeteria Management System in C: [CMS repo](https://github.com/zionabyrke/CafeteriaManagementSystem-in-C)  
