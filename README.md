@@ -1,41 +1,21 @@
-# Renz here
-<p align="left">
-  <!-- Profile Views -->
-  <a href="https://github.com/zionabyrke">
-    <img src="https://komarev.com/ghpvc/?username=zionabyrke&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+# Renz here ✌️
+CS Student | Hobby dev
+Likes working alone & learning by doing
 
-  <!-- Followers  -->
-  <a href="https://github.com/zionabyrke?tab=followers">
-    <img src="https://img.shields.io/github/followers/zionabyrke?label=Followers&style=flat" />
-  </a>
+## Currently Working On:
+1. UniFind: close-source Dedicated Marketplace Mobile App Exclusively for BU Students
+2. memetone: open-source Arch daemon (no repo yet)
 
-  <!-- Status -->
-  <a href="https://www.githubstatus.com/">
-    <img src="https://img.shields.io/badge/GitHub-Operational-success?style=flat" />
-  </a>
-</p>
-<p><q>Jack OFF all trades, master of NUT</q>
-— <cite>Me, probably</cite></p>
+## Pet Projects (both un/finished)
+[Shell in C++](https://github.com/zionabyrke/codecrafters-shell-cpp)
+[Shell in Python](https://github.com/zionabyrke/codecrafters-shell-python)
+[Simple dev portfolio in HTML-CSS-JS](https://zionabyrke.github.io/zionabyrke/)
 
-<h2>
-  Toolkit
-</h2>
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> -->
+## Recent Group & Individual School Projects
+(11/1/25). Reinforcement Learning Tetris Game in Python using Genetic Algorithm: [TetriMind repo](https://github.com/zionabyrke/TetriMind)
+(10/31/25). Copilot-assisted portfolio Android app: [portfolio-app repo](https://github.com/zionabyrke/portfolio-app)
+(12/20/24). Inventory System using OOP (Java): [InventorySystem repo](https://github.com/zionabyrke/OOP_InventorySystem)
+(12/1/24). CLI Bingo Game using OOP (Java): [Bingo Game Repo](https://github.com/zionabyrke/bingo-game-java)
+(12/19/23). Simple HTML-CSS website: [CSWiki Web Repo](https://github.com/zionabyrke/group5-cswiki): [](https://zionabyrke.github.io/group5-cswiki/Home.html)
 
-  <!-- Frameworks / Libraries -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> -->
-
-  <!-- Tools -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/> -->
-</p>
+> These projects were part of experience as a dev
