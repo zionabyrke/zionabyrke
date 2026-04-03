@@ -1,5 +1,5 @@
 # Renz here ✌️
-CS Student | Hobby dev
+Bicol University BSCS Student | Hobby dev
 <br>Likes working alone & learning by doing
 
 ## Currently Working On:
