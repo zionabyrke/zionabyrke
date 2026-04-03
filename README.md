@@ -18,4 +18,4 @@ BUCS BSCS Student | Hobby dev
 - (12/1/24). CLI Bingo Game using OOP (Java): [Bingo Game Repo](https://github.com/zionabyrke/bingo-game-java)
 - (12/19/23). Simple HTML-CSS website: [CSWiki Website](https://zionabyrke.github.io/group5-cswiki/Home.html)
 
-> **These projects were part of experience as a dev**
+> **These projects were part of my experience as a dev**
