@@ -6,6 +6,7 @@ BSCS Student | Hobby dev
 1. UniFind: close-source Dedicated Marketplace Mobile App Exclusively for BU Students
 
 ## Pet Projects (both un/finished)
+- [code to png](https://zionabyrke.github.io/CodeToPng/)
 - [Shell in C++](https://github.com/zionabyrke/codecrafters-shell-cpp)
 - [Shell in Python](https://github.com/zionabyrke/codecrafters-shell-python)
 - [Simple dev portfolio in HTML-CSS-JS](https://zionabyrke.github.io/zionabyrke/)
