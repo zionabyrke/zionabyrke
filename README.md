@@ -1,6 +1,4 @@
-# Renz here ✌️
-BSCS Student | Hobby dev
-<br>Likes working alone & learning by doing
+# Renz Kirby here ✌️
 
 ## Currently Working On:
 1. UniFind: close-source Dedicated Marketplace Mobile App Exclusively for BU Students
