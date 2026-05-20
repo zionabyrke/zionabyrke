@@ -6,4 +6,4 @@
 - 🤖 tried AI/ML: shipped a Reinforcement Learning Tetris engine
 - ☁️ exploring Cloud Computing for now
 
-[My Works](https://zionabyrke.github.io/zionabyrke/)
+**[My Works](https://zionabyrke.github.io/zionabyrke/)**
