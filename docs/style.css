@@ -3,6 +3,16 @@
   margin: 0;
   padding: 0;
 }
+
+/* hide scrollbar */
+* {
+  scrollbar-width: none; 
+  -ms-overflow-style: none; 
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+
 :root {
   --black: #0a0a0a;
   --white: #efebeb;
