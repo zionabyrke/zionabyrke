@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/nYVVlrUa4zwAAAAC/joji-miller-filthy-frank.gif" width="300" />
+  <img src="https://media1.tenor.com/m/nYVVlrUa4zwAAAAC/joji-miller-filthy-frank.gif" width="400" />
   <br>
-  <strong>PALDOOO NA NAMAN</strong>
+  <strong>WOAH PALDOOO NA NAMAN!!!</strong>
   <br>
   <em>WOAH JACKPOTTT!!!</em>
   <br>
