@@ -1,9 +1,8 @@
-### Hello there 👋
-
-#### i build things. sometimes they work
-
-- ⚙️ worked with `.py` `.tsx` `.c` `.cpp` `.js` `.html` `.css`
-- 🤖 trained a bot: shipped a Reinforcement Learning Tetris engine
-- ☁️ exploring Cloud Computing for now
-
-**[My Works](https://zionabyrke.github.io/zionabyrke/)**
+<div align="center">
+  <img src="https://media1.tenor.com/m/nYVVlrUa4zwAAAAC/joji-miller-filthy-frank.gif" width="300" />
+  <br>
+  <strong>PALDOOO NA NAMAN</strong>
+  <br>
+  <em>TL: WOAH JACKPOTTT!!!</em>
+</div>
+**[See My Works](https://zionabyrke.github.io/zionabyrke/)**
